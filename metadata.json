@@ -1,0 +1,6 @@
+{
+  "name": "SIDATA SMA",
+  "description": "Sistem Informasi Database Siswa Terpadu SMA - Arsip digital profil, akademik, prestasi, kedisiplinan, dan bakat minat siswa",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
